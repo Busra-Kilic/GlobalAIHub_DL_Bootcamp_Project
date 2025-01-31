@@ -1,9 +1,6 @@
 # GlobalAIHub_DL_Bootcamp_Project
 
-
-Project Overview
-
-This project focuses on classifying fish species using an Artificial Neural Network (ANN). The dataset comprises 9,000 images spanning 9 distinct species. The workflow encompasses data preprocessing, model architecture design, training, and comprehensive performance evaluation.
+This project aims to classify 9 different seafood species using images collected from a supermarket in Izmir. The dataset was collected as part of a university-industry partnership project between Izmir University of Economics and an industrial organization and published in ASYU in 2020. Although Convolutional Neural Network (CNN) is commonly used for fish species classification, only Artificial Neural Network (ANN) was used in this project. 
 
 
 Table of Contents
